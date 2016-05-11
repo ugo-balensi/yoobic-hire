@@ -1,13 +1,13 @@
 # YOOBIC London Dev Hiring Project
 ## The toc
-[The vision](#the-vision)
-[The big picture](#the-big-picture)
-[The ask](#the-ask)
-[The spec](#the-spec)
-[The setup](#the-setup)
-[The designs](#the-designs)
-[The guides](#the-guides)
-[The lifeline](#the-lifeline)
+ + [The vision](#the-vision)
+ + [The big picture](#the-big-picture)
+ + [The ask](#the-ask)
+ + [The spec](#the-spec)
+ + [The setup](#the-setup)
+ + [The designs](#the-designs)
+ + [The guides](#the-guides)
+ + [The lifeline](#the-lifeline)
 
 ## The vision
 Hi, thanks your interest in YOOBIC and for agreeing to take on this small project. This will help us get to know you and your skills a bit better, and will hopefully be more fun and more useful than coding on a whiteboard.
