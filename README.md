@@ -5,6 +5,7 @@
  + [The ask](#the-ask)
  + [The spec](#the-spec)
  + [The setup](#the-setup)
+ + [The git tips](#the-git-tips)
  + [The designs](#the-designs)
  + [The guides](#the-guides)
  + [The lifeline](#the-lifeline)
@@ -48,6 +49,12 @@ You can build the app in typescript or javascript (ES6). We recommend trying typ
 If you've read through the ionic2 & angular2 docs thoroughly and want to try to roll your own from scratch, feel free, but we recommend against it. Most of the work is boilerplate and not particularly interesting. Plus, [ionic's cli](http://ionicframework.com/docs/v2/cli/) includes a tutorial that will walk you through building the basics of building your app's skeleton.
 
 Follow with ionic2's [Getting Started](http://ionicframework.com/docs/v2/getting-started/). Do the [installation](http://ionicframework.com/docs/v2/getting-started/installation), and then follow the [tutorial](http://ionicframework.com/docs/v2/getting-started/tutorial). Once you've done that you'll have most of the functional app and the views you need. Building the services will be the next step.
+
+## The git tips
+
+>**Git Tip 1**: *Commit early, commit often.* While it's okay if you miss some stuff, it'll help us greatly in reviewing your project if you try to commit regularly using git. We recommend doing an initial commit immediately after finishing the tutorial, in case you need to start over from there.
+
+>**Git Tip 2**: *Clear commit messages.* The better your commit messages, the better your `git log`. While you're not likely to take a lot of breaks in the middle of working on the project, this will make it easier to understand what you thought happened when you made that commit a few hours ago. Feel free to whatever style of commit messages you prefer or are most comfortable  for this project, as long as it's clear and understandable. The best commit message guidelines we've encountered (and the one we use at YOOBIC) are from the [Angular/Angular Contrib Guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit).
 
 ## The designs
 You can check out our [style guide](https://app.frontify.com/d/GEu6ejIkiL3x/yoobic-style-guide) for color ideas if you don't have your own. Also if you're really keen you can try to replicate our app's designs. Take a look at the images in the [Current Designs](current-designs) folder in this repo.
