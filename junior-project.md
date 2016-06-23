@@ -1,4 +1,4 @@
-# YOOBIC London Dev Hiring Project
+# YOOBIC London Junior Dev Hiring Project
 ## The toc
  + [The vision](#the-vision)
  + [The big picture](#the-big-picture)
