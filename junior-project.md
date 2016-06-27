@@ -42,7 +42,7 @@ View | Descritption | Desired behavio(u)r
 ***Chat (Bonus)*** | *If and only if you have free time and really feel the need to show off, take your best shot at making a chat view too.* | *Be warned, since we're looking at logic and services more than views, we're going to expect your chat to be somewhat functional.*
 
 #### Language
-You can build the app in typescript or javascript (ES6). We recommend trying typescript, since much of the documentation for anular2 & ionic2 out there is in typescript. However, if you prefer and/or are just more comfortable in javascript, we're cool with either one. 
+You can build the app in typescript or javascript (ES6). We ***strongly*** recommend typescript, since much of the documentation for angular2 & ionic2 out there is in typescript. However, if you prefer and/or are just more comfortable in javascript, we're cool with either one.
 
 
 ## The setup
