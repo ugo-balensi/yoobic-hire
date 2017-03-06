@@ -19,7 +19,7 @@ We understand that this is probably a brand new framework to you; you're probabl
 
 >***Nota bene***
 
->1) Ionic2 is still in beta currently and it has some bugs and kinks to be worked out. This means your app likely will too. If that's the case, it's fine. We're going to be looking more at how you built it than at what you built. Moreover, if you can't make it work, or you're struggling to finish in a reasonable amount of time, again: don't sweat it. We want to see what you've learned; if you don't have time to build all of it, then feel free sketch out the missing pieces and tell us how you'd build them and wire it all together. 
+>1) We're going to be looking more at how you built your app than at what you built. Moreover, if you can't make it work, or you're struggling to finish in a reasonable amount of time, again: don't sweat it. We want to see what you've learned; if you don't have time to build all of it, then feel free sketch out the missing pieces and tell us how you'd build them and wire it all together. 
 
 >2) We intend this to be an engaging learning opportunity for you. Have fun with it! If you are feeling comfortable and want to up the challenge, go beyond the spec. However, please try to hit the targets in the spec before going overboard. We're going to want to see what you've done with the core pieces first. We want to be able to see your whole app as well as review your code when we do our follow-up interview, so we advise you don't waste time adding what we're not going to get to see.
 
@@ -77,6 +77,6 @@ You can check out our [style guide](https://app.frontify.com/d/GEu6ejIkiL3x/yoob
  + [TypeStrong's typescript workshop](https://github.com/TypeStrong/learn-typescript)
 
 ## The lifeline
-If you're done, desperate, or just want to chat about the project, get in touch with me at my yoobic.com email address, jskrzypek@ (please tag/preface the subject with `[hiring-project]`). I can answer any questions you might have or schedule time for a skype chat to help you out if you get stuck. Don't hesitate to ask for help if you need it, but please try it on your own first even if you think you didn't get it. You probably understood more than you thought. Asking for help won't be held against you, but don't use me as a crutch.
+If you're done, desperate, or just want to chat about the project, get in touch with me at my yoobic.com email address, mbryan@ (please tag/preface the subject with `[hiring-project]`). I can answer any questions you might have or schedule time for a skype chat to help you out if you get stuck. Don't hesitate to ask for help if you need it, but please try it on your own first even if you think you didn't get it. You probably understood more than you thought. Asking for help won't be held against you, but don't use me as a crutch.
 
 ### GOOD LUCK!
