@@ -1,4 +1,8 @@
 
+To launch the application :
+#npm install on the yoobicApp directory
+#ionic serve on the yoobicApp directory
+
 The app project structure was auto-generated using the ionic cli.
 The app contains all the expected features including the chat-room.
 
@@ -20,4 +24,3 @@ Before using the chat features, the nodejs service must be launched using the fo
 Once the service successfully launched, it might listen on the port 3001.
 
 The chat-room can be tested by login in the app with 2 differents usernames from different navigator and chat between the both logged users.
-

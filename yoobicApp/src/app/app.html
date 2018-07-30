@@ -6,7 +6,7 @@
     </ion-header>
     <ion-content>
         <ion-list>
-            <ion-item *ngIf="currentUser.avatar">
+            <ion-item *ngIf="currentUser && currentUser.avatar">
                 <ion-avatar item-start>
                     <img class="avatar" src="{{currentUser.avatar}}">
                 </ion-avatar>
