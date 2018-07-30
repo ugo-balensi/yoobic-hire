@@ -43,7 +43,7 @@ export class LoginPage {
 
         if (this.username === validUsername && this.password === validPassword) {
           this.navCtrl.push(MenuPage);
-          this.events.publish('currentUser', this.user[i])
+          this.events.publish('currentUser', this.user[i]);
           const toast = this.toastCtrl.create({
             message: 'Welcome ' + this.username,
             duration: 2000

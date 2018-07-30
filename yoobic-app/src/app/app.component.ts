@@ -43,7 +43,6 @@ export class MyApp {
 
   ngOnInit() {
     this.events.subscribe('currentUser', (user) => {
-      console.log('user : ', user);
       this.currentUser = user;
     });
   }
