@@ -1,6 +1,6 @@
 webpackJsonp([1],{
 
-/***/ 335:
+/***/ 334:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -71,7 +71,7 @@ var NotesPage = /** @class */ (function () {
     };
     NotesPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-notes',template:/*ion-inline-start:"/mnt/d/Programs/wamp64/www/yoobicApp/src/pages/notes/notes.html"*/'<!--\n  Generated template for the NotesPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Notes</ion-title>\n    <ion-buttons start>\n        <button ion-button menuToggle icon-only>\n          <ion-icon name="menu"></ion-icon>\n        </button>\n      </ion-buttons>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n    <p>Not available</p>\n</ion-content>\n'/*ion-inline-end:"/mnt/d/Programs/wamp64/www/yoobicApp/src/pages/notes/notes.html"*/,
+            selector: 'page-notes',template:/*ion-inline-start:"/mnt/d/Programs/wamp64/www/yoobic-hire/yoobicApp/src/pages/notes/notes.html"*/'<!--\n  Generated template for the NotesPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Notes</ion-title>\n    <ion-buttons start>\n        <button ion-button menuToggle icon-only>\n          <ion-icon name="menu"></ion-icon>\n        </button>\n      </ion-buttons>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n    <p>Not available</p>\n</ion-content>\n'/*ion-inline-end:"/mnt/d/Programs/wamp64/www/yoobic-hire/yoobicApp/src/pages/notes/notes.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavParams */]])
     ], NotesPage);

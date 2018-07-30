@@ -41,7 +41,9 @@ export class MyApp {
   }
 
   ngOnInit() {
-    this.currentUser = JSON.parse(sessionStorage.getItem('currentUser'));
+    if(sessionStorage.getItem('currentUser')){
+      this.currentUser = JSON.parse(sessionStorage.getItem('currentUser'));
+    }
   }
 
   logout(): void {
